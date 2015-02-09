@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>26D49D81-B0A2-41A1-9E3D-AEB80C69F1E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Testing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4DE89633-CBAB-4672-A8C3-0856A94EB812</key>
+		<string>https://github.com/satendra87/Testing/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Testing.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4DE89633-CBAB-4672-A8C3-0856A94EB812</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>4DE89633-CBAB-4672-A8C3-0856A94EB812</key>
+		<string>https://github.com/satendra87/Testing</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/satendra87/Testing/trunk/Testing.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4DE89633-CBAB-4672-A8C3-0856A94EB812</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4DE89633-CBAB-4672-A8C3-0856A94EB812</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Testing</string>
+		</dict>
+	</array>
+</dict>
+</plist>
