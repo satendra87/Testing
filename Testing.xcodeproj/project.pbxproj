@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84B7007E1A89C5770069F37F /* testingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B7007C1A89C5770069F37F /* testingViewController.m */; };
+		84B7007F1A89C5770069F37F /* testingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84B7007D1A89C5770069F37F /* testingViewController.xib */; };
 		B5A1AD991A79F1C000CE4C10 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5A1AD981A79F1C000CE4C10 /* Foundation.framework */; };
 		B5A1AD9B1A79F1C000CE4C10 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5A1AD9A1A79F1C000CE4C10 /* CoreGraphics.framework */; };
 		B5A1AD9D1A79F1C000CE4C10 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5A1AD9C1A79F1C000CE4C10 /* UIKit.framework */; };
@@ -34,6 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84B7007B1A89C5770069F37F /* testingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testingViewController.h; sourceTree = "<group>"; };
+		84B7007C1A89C5770069F37F /* testingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testingViewController.m; sourceTree = "<group>"; };
+		84B7007D1A89C5770069F37F /* testingViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = testingViewController.xib; sourceTree = "<group>"; };
 		B5A1AD951A79F1C000CE4C10 /* Testing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Testing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5A1AD981A79F1C000CE4C10 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B5A1AD9A1A79F1C000CE4C10 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -119,6 +124,9 @@
 				B5A1ADAE1A79F1C000CE4C10 /* ViewController.m */,
 				B5A1ADB01A79F1C000CE4C10 /* Images.xcassets */,
 				B5A1AD9F1A79F1C000CE4C10 /* Supporting Files */,
+				84B7007B1A89C5770069F37F /* testingViewController.h */,
+				84B7007C1A89C5770069F37F /* testingViewController.m */,
+				84B7007D1A89C5770069F37F /* testingViewController.xib */,
 			);
 			path = Testing;
 			sourceTree = "<group>";
@@ -230,6 +238,7 @@
 				B5A1ADB11A79F1C000CE4C10 /* Images.xcassets in Resources */,
 				B5A1ADA31A79F1C000CE4C10 /* InfoPlist.strings in Resources */,
 				B5A1ADAC1A79F1C000CE4C10 /* Main.storyboard in Resources */,
+				84B7007F1A89C5770069F37F /* testingViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +260,7 @@
 				B5A1ADAF1A79F1C000CE4C10 /* ViewController.m in Sources */,
 				B5A1ADA91A79F1C000CE4C10 /* AppDelegate.m in Sources */,
 				B5A1ADA51A79F1C000CE4C10 /* main.m in Sources */,
+				84B7007E1A89C5770069F37F /* testingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,6 +467,7 @@
 				B5A1ADC91A79F1C100CE4C10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5A1ADCA1A79F1C100CE4C10 /* Build configuration list for PBXNativeTarget "TestingTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +476,7 @@
 				B5A1ADCC1A79F1C100CE4C10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
