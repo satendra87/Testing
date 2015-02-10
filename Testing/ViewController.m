@@ -25,9 +25,18 @@
 
 -(void)testing
 {
-
+    UIView *testview=[[UIView alloc]initWithFrame:CGRectMake(0,0,100,100)];
+    
+    testview.backgroundColor=[UIColor redColor];
+    [self.view addSubview: testview];
+    
+    
+    
     NSLog(@"Testing");
 }
+
+
+
 
 - (void)didReceiveMemoryWarning
 {
